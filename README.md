@@ -4,7 +4,7 @@
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
-| [BrainMass: Advancing Brain Network Analysis for Diagnosis With Large-Scale Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10557697) | BrainMass | TMI 2024 | [code](https://github.com/podismine/BrainMass) | MIM+BYOL |
+| [BrainMass: Advancing Brain Network Analysis for Diagnosis With Large-Scale Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10557697) | BrainMass | TMI 2024 | [code](https://github.com/podismine/BrainMass) | dataaug：随机丢弃时间点bold，MIM+BYOL |
 
 
 ## ✨✨✨ BOLD and PCC
