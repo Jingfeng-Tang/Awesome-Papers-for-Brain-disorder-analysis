@@ -19,14 +19,24 @@
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
+| [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
 
+## ✨✨✨ PCC
+### 2024
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | 多模板 |
+
+
+## ✨✨✨ 图
+### 2024
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
 
 
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
-| [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | -- |
-| [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
-| [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
 | [Prototype Learning of Inter-network Connectivity for ASD Diagnosis and Personalized Analysis](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_32) | PL-FC | MICAAI 2022 | [code](https://github.com/ku-milab/PL-FC) | -- |
 | [Knowledge-Aware Multisite Adaptive Graph Transformer for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10663452) | -- | TMI 2025 | -- | no-image feature |
 | [Community-Aware Transformer for Autism Prediction in fMRI Connectome](https://arxiv.org/pdf/2307.10181) | Com-BrainTF | MICAAI 2023 | [code](https://github.com/ubc-tea/Com-BrainTF) | graph token |
