@@ -1,5 +1,12 @@
 # Awesome-Papers-for-Brain-Disorder-Analysis
 
+## ✨✨✨ 生成脑网络
+### 2024
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis](https://papers.miccai.org/miccai-2025/paper/4637_paper.pdf) | BiSCoT | MICAAI 2025 | [code](https://github.com/zijianch/biscot) | 利用profile学习稀疏的脑网络 |
+
+
 ## ✨✨✨ Pretrained Model
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
