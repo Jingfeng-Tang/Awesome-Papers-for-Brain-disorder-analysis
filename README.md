@@ -1,5 +1,13 @@
 # Awesome-Papers-for-Brain-Disorder-Analysis
 
+
+## ✨✨✨ 多模态
+### 2025
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
+| [Cross-Modal Brain Graph Transformer for Brain Disease Diagnosis](https://papers.miccai.org/miccai-2025/paper/1238_paper.pdf) | CBGT | MICAAI 2025 | -- | fMRI DTI |
+
+
 ## ✨✨✨ 生成脑网络
 ### 2025
 | Title | Abbreviation | Venue | Code | idea |
