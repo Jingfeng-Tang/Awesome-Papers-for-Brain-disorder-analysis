@@ -34,6 +34,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
+| [Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI](https://papers.miccai.org/miccai-2025/paper/0949_paper.pdf) | LHDFormer | MICAAI 2025 | [code](https://github.com/iMoonLab/LHDFormer) | -- |
 | [DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis](https://papers.miccai.org/miccai-2025/paper/1576_paper.pdf) | DHGFormer | MICAAI 2025 | [code](https://github.com/iMoonLab/DHGFormer) | bold attention pcc |
 | [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
 
@@ -41,6 +42,11 @@
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
+
+### 2023
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
+| [BrainUSL: Unsupervised Graph Structure Learning for Functional Brain Network Analysis](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_20) | BrainUSL | MICAAI 2023 | [code](https://github.com/IntelliDAL/Graph/tree/main/BrainUSL) | 图 |
 
 
 
@@ -87,7 +93,6 @@
 
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
-| [BrainUSL: Unsupervised Graph Structure Learning for Functional Brain Network Analysis](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_20) | BrainUSL | MICAAI 2023 | [code](https://github.com/IntelliDAL/Graph/tree/main/BrainUSL) | 图 |
 | [Randomizing Human Brain Function Representation for Brain Disease Diagnosis](https://ieeexplore.ieee.org/document/10440630) | RandomFR | TMI 2024 | [code](https://github.com/mjliu2020/RandomFR) | 脑区随机采样 |
 | [Affinity Learning Based Brain Function Representation for Disease Diagnosis](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_2) | ALBFR | MICAAI 2024 | [code](https://github.com/mjliu2020/ALBFR) | 脑区随机采样 |
 | [Long-range Brain Graph Transformer](https://arxiv.org/pdf/2501.01100v2) | ALTER | NeurIPS 2024 | [code](https://github.com/yushuowiki/ALTER) | -- |
