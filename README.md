@@ -69,6 +69,7 @@
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [Prototype Learning of Inter-network Connectivity for ASD Diagnosis and Personalized Analysis](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_32) | PL-FC | MICAAI 2022 | [code](https://github.com/ku-milab/PL-FC) | -- |
+| [BRAIN NETWORK TRANSFORMER](https://arxiv.org/pdf/2210.06681) | BNT | NeurIPS 2022 | [code](https://github.com/Wayfear/BrainNetworkTransformer) | transformer concat_readout |
 
 
 ## ✨✨✨ 图
@@ -78,10 +79,14 @@
 | [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
 | [Do Transformers Really Perform Bad for Graph Representation](https://arxiv.org/pdf/2106.05234) | Graphormer | NeurIPS 2021 | [code](https://github.com/Microsoft/Graphormer) | -- |
 
+### 2020
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
-| [BRAIN NETWORK TRANSFORMER](https://arxiv.org/pdf/2210.06681) | BNT | NeurIPS 2022 | [code](https://github.com/Wayfear/BrainNetworkTransformer) | transformer concat_readout |
 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902) | GCL | NeurIPS 2020 | [code](https://github.com/Shen-Lab/GraphCL) | 图对比学习，数据增强（子图best） |
+
+
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
 | [BrainUSL: Unsupervised Graph Structure Learning for Functional Brain Network Analysis](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_20) | BrainUSL | MICAAI 2023 | [code](https://github.com/IntelliDAL/Graph/tree/main/BrainUSL) | 图 |
 | [Randomizing Human Brain Function Representation for Brain Disease Diagnosis](https://ieeexplore.ieee.org/document/10440630) | RandomFR | TMI 2024 | [code](https://github.com/mjliu2020/RandomFR) | 脑区随机采样 |
 | [Affinity Learning Based Brain Function Representation for Disease Diagnosis](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_2) | ALBFR | MICAAI 2024 | [code](https://github.com/mjliu2020/ALBFR) | 脑区随机采样 |
