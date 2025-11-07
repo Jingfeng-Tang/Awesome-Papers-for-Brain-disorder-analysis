@@ -37,6 +37,13 @@
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
 
 
+## ✨✨✨ BOLD
+### 2025
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
+| [Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification](https://papers.miccai.org/miccai-2025/paper/1654_paper.pdf) | DSMFN | MICAAI 2025 | [code](https://github.com/WuLingBNU/DSMFN) | 小波变换 |
+
+
 ## ✨✨✨ PCC
 ### 2025
 | Title | Abbreviation | Venue | Code | idea |
