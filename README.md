@@ -29,6 +29,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
+| [DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis](https://papers.miccai.org/miccai-2025/paper/1576_paper.pdf) | DHGFormer | MICAAI 2025 | [code](https://github.com/iMoonLab/DHGFormer) | bold attention pcc |
 | [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
 
 ### 2024
