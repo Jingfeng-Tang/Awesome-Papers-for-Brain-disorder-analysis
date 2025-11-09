@@ -34,6 +34,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
+| [Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis](https://papers.miccai.org/miccai-2025/paper/1523_paper.pdf) | HM-AGPC | MICAAI 2025 | [code](https://github.com/SCUT-Xinlab/HM-AGPC) | -- |
 | [Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI](https://papers.miccai.org/miccai-2025/paper/0949_paper.pdf) | LHDFormer | MICAAI 2025 | [code](https://github.com/iMoonLab/LHDFormer) | -- |
 | [DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis](https://papers.miccai.org/miccai-2025/paper/1576_paper.pdf) | DHGFormer | MICAAI 2025 | [code](https://github.com/iMoonLab/DHGFormer) | bold attention pcc |
 | [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
