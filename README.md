@@ -68,6 +68,7 @@
 |-----|-----|-----|-----|-----|
 | [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | 多模板 |
 | [GBT Geometric-oriented Brain Transformer for Autism Diagnosis](https://papers.miccai.org/miccai-2024/paper/2778_paper.pdf) | GBT | MICAAI 2024 | [code](https://github.com/CUHK-AIM-Group/GBT) | transformer rank 主成分 |
+| [Randomizing Human Brain Function Representation for Brain Disease Diagnosis](https://ieeexplore.ieee.org/document/10440630) | RandomFR | TMI 2024 | [code](https://github.com/mjliu2020/RandomFR) | 脑区随机采样 |
 ### 2023
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
@@ -94,7 +95,6 @@
 
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
-| [Randomizing Human Brain Function Representation for Brain Disease Diagnosis](https://ieeexplore.ieee.org/document/10440630) | RandomFR | TMI 2024 | [code](https://github.com/mjliu2020/RandomFR) | 脑区随机采样 |
 | [Affinity Learning Based Brain Function Representation for Disease Diagnosis](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_2) | ALBFR | MICAAI 2024 | [code](https://github.com/mjliu2020/ALBFR) | 脑区随机采样 |
 | [Long-range Brain Graph Transformer](https://arxiv.org/pdf/2501.01100v2) | ALTER | NeurIPS 2024 | [code](https://github.com/yushuowiki/ALTER) | -- |
 | [NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/abs/2306.06202) | NeuroGraph | NeurIPS 2023 | [code](https://anwar-said.github.io/anwarsaid/neurograph.html) | -- |
